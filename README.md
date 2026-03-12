@@ -2,7 +2,7 @@
 PCB and 3D Printed case for [every-culfw firmware](https://github.com/DecksLabs/every-culfw) to build WMBus receiver usb dongle.
 
 # PCB Design
-Download [PCB Gerber Files](https://github.com/mulder82/every-culfw-hw/blob/main/PCB/EveryCul_Gerber.zip)
+Download [PCB Gerber Files](https://github.com/mulder82/every-culfw-hw/tree/main/PCB)
 
 ![Screenshot](https://github.com/mulder82/every-culfw-hw/blob/main/PCB/img/top.png)
 
