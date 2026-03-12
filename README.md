@@ -18,7 +18,7 @@ Download [PCB Gerber Files](https://github.com/mulder82/every-culfw-hw/tree/main
 
 ## PCB Components
 1. Arduino Nano Every/Thinary Nano Every (aka chinese clone with atmega 4808)
-2. *EBYTE E07-900M10S* CC1101 904MHz-925MHz 10dBm SPI wireless module
+2. EBYTE E07-900M10S CC1101 904MHz-925MHz 10dBm SPI wireless module
 3. SMA connector L Type 14.5mm
 4. Ceramic capacitor 100nF 50V
 
